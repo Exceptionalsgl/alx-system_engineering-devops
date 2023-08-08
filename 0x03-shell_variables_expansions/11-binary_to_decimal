@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Binary $binary_value in base 10: $decimal_value"
